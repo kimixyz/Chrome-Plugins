@@ -21,7 +21,8 @@
 [取色利器][10]
 ###Open SEO Stats(Formerly: PageRank Status)
 [显示当前网页 Google PageRank、Alexa、Compete、Quantcast排名，以及外链、索此数、IP位置、Whois、SNS、缓存][11]
-
+###json view
+[验证和查看json文档][12]
 
 
   [1]: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
@@ -35,3 +36,4 @@
   [9]: https://chrome.google.com/webstore/detail/gplegfbjlmmehdoakndmohflojccocli?utm_source=chrome-app-launcher-info-dialog
   [10]: https://chrome.google.com/webstore/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=chrome-app-launcher-info-dialog
   [11]: https://chrome.google.com/webstore/detail/hbdkkfheckcdppiaiabobmennhijkknn?utm_source=chrome-app-launcher-info-dialog
+  [12]: https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog
